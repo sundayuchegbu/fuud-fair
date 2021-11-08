@@ -1,0 +1,36 @@
+{
+  "name": "fuud-fair",
+  "version": "1.0.0",
+  "description": "Eccomerce web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "jest:watch": "jest --watch",
+    "start": "node backend/server.js",
+    "server": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/server",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "author": "Chizoba Uchegbu",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "nodemailer": "^6.7.0",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "nodemon": "^2.0.14",
+    "supertest": "^6.1.6"
+  }
+}

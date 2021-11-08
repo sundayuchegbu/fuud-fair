@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Devon King's",
+    "price": 8000,
+    "description": "Vegetable oil with suitable price, easily purchased and tasty in your food",
+    "rating": 4.5,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/T/E/174378_1602048791.jpg"
+      }
+    ],
+    "category": "Oil",
+    "seller": "Lawreta's Fruit Farm & Market",
+    "stock": 50,
+    "numOfReviews": 10,
+    "review": []
+  },
+  {
+    "name": "Peak Milk",
+    "Price": "4000",
+    "description": "for your breakfask",
+    "ratings": 4.5,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/N/X/61276_1592316319.jpg"
+      }
+    ],
+    "category": "Beverages",
+    "seller": "Lawretta Food Market",
+    "stock": 500,
+    "numOfReviews": 18,
+    "reviews": []
+  },
+  {
+    "name": "Croker",
+    "Price": "3000",
+    "description": "For your best of Oil",
+    "ratings": 4.6,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/D/C/53988_1551883887.jpg"
+      }
+    ],
+    "category": "Meat and Seafood",
+    "seller": "Chizzy Store",
+    "stock": 150,
+    "numOfReviews": 22,
+    "reviews": []
+  },
+  {
+    "name": "Deep Square Loaf Bread",
+    "Price": "200",
+    "description": "For your best of Oil",
+    "ratings": 4.2,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Q/B/186323_1629291397.jpg"
+      }
+    ],
+    "category": "Bakery and Bread",
+    "seller": "Lawretta Food Market",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Semolina",
+    "Price": "200",
+    "description": "Honeywell Semolina is superfine in nature and creamier in color than semolina brands. this gives it a very good look and feel.Honeywell Semolina’s quality allows it to turn into a jelly paste quickly during preparation. This makes it very easy for busy housewives and other domestic servants to prepare without stress. ",
+    "ratings": 4.2,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/H/o/Honeywell-Semolina---5kg-7792073_1.jpg"
+      }
+    ],
+    "category": "Grains",
+    "seller": "Lawretta Food Market",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+
+  {
+    "name": "Egg Store Rack",
+    "Price": "200",
+    "description": "Egg Store Rack is superfine in nature and creamier in color than semolina brands. this gives it a very good look and feel.Honeywell Semolina’s quality allows it to turn into a jelly paste quickly during preparation. This makes it very easy for busy housewives and other domestic servants to prepare without stress. ",
+    "ratings": 4.2,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/E/g/Egg-Storage-Rack---Green-7024447.jpg"
+      }
+    ],
+    "category": "Dairy and Eggs",
+    "seller": "Lawretta Food Market",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+
+  {
+    "name": "Bitter Gourd",
+    "Price": "200",
+    "description": "Bitter Gourd is superfine in nature and creamier in color than semolina brands. this gives it a very good look and feel.Honeywell Semolina’s quality allows it to turn into a jelly paste quickly during preparation. This makes it very easy for busy housewives and other domestic servants to prepare without stress. ",
+    "ratings": 4.2,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/B/i/Bitter-Gourd---5kg-8087026.jpg"
+      }
+    ],
+    "category": "Fruits and Vegetables",
+    "seller": "Lawretta Food Market",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": " Nestle Golden Morn",
+    "Price": "2000",
+    "description": "Nestle Golden Morn is superfine in nature and creamier in color than semolina brands. this gives it a very good look and feel.Honeywell Semolina’s quality allows it to turn into a jelly paste quickly during preparation. This makes it very easy for busy housewives and other domestic servants to prepare without stress. ",
+    "ratings": 4.2,
+    "images": [
+      {
+        "url": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/B/i/Bitter-Gourd---5kg-8087026.jpg"
+      }
+    ],
+    "category": "Breakfast and Cereals",
+    "seller": "Lawretta Food Market",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  }
+]
